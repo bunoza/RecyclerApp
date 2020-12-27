@@ -9,7 +9,7 @@
 
 Testirano na uređajima: Xiaomi Mi A2 (physical device) i Pixel 3a (emulated device).
 
-Ikona (foreground i background):
+Ikona (background i foreground):
 
 <img src="/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" width="250" height="250">     <img src="/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" width="250" height="250">
 
