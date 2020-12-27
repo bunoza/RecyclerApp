@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerApp</string>
+    <string name="dodaj">DODAJ</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="domagoj">Domagoj Bunoza</string>
+    <string name="none">none</string>
+    <string name="ime">Ime</string>
+</resources>
