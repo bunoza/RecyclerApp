@@ -1,4 +1,4 @@
-# RecyclerApp
+# RecyclerApp - Using Recyclerview
 * Android application made for ORWMA - LV6
 * Android aplikacija napravljena za ORWMA - LV6
 ### Dodaci:
